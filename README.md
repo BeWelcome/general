@@ -14,3 +14,8 @@ Rox is the current code base of what's running on http://bewelcome.org/
 **Welen** 
 https://gitorious.org/welen/welen
 Welen will be the new and improved platform.
+
+
+## More stuff
+
+https://github.com/BeWelcome/general/wiki/Slashdot-Plan
