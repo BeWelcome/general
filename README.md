@@ -1,4 +1,4 @@
-This repository is for general BeWelcome issue tracking and technical knowledge, useful for keeping track of todos and documents that don't fit on any other repository (yet). We also have a private repository. [Contact Kasper](http://kasper.re/contact) if you want access.
+This repository is for general [BeWelcome](http://bewelcome.org) issue tracking and technical knowledge, useful for keeping track of todos and documents that don't fit on any other repository (yet). We also have a private repository. [Contact Kasper](http://kasper.re/contact) if you want access.
 
 Check [the issues](https://github.com/BeWelcome/general/issues).
 
