@@ -1,8 +1,9 @@
-general
-=======
+This repository is for general BeWelcome issue tracking and technical knowledge, useful for keeping track of todos and documents that don't fit on any other repository (yet).
 
-general stuff, useful for keeping track of todos and documents
+Check [the issues](https://github.com/BeWelcome/general/issues).
 
+
+## Code
 
 The main code repositories are:
 
