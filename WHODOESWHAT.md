@@ -1,4 +1,7 @@
-Copy from http://www.bewelcome.org/wiki/edit/Who_does_what - January 3rd 2014.  
+Copy from the [canonical version](http://www.bewelcome.org/wiki/edit/Who_does_what) at BeWelcome.org - January 3rd 2014.  
+
+This is useful in case of emergency.
+
 
 [TOC]
 
